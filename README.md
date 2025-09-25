@@ -51,7 +51,7 @@ read_only=1
 ```
 
 ![img](img/2-02.png)
-
+![img](img/2-03.png)
 
 ---
 
