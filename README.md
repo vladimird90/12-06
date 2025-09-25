@@ -40,7 +40,7 @@ server_id=1
 log_bin
 ```
 
-![img](img/2-01.png)
+![img](img/2-1.png)
 
 slave:
 
@@ -50,8 +50,8 @@ server_id=2
 read_only=1
 ```
 
-![img](img/2-02.png)
-![img](img/2-03.png)
+![img](img/2-2.png)
+![img](img/2-3.png)
 
 ---
 
@@ -71,8 +71,8 @@ server_id=1
 log_bin
 ```
 
-![img](img/3-01.png)
-![img](img/3-02.png)
+![img](img/3-1.png)
+![img](img/3-2.png)
 
 master2:
 
@@ -82,5 +82,5 @@ server_id=2
 log_bin
 ```
 
-![img](img/3-03.png)
-![img](img/3-04.png)
+![img](img/3-3.png)
+![img](img/3-4.png)
